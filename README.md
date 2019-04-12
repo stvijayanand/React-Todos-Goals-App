@@ -1,3 +1,20 @@
+"Rails-style" Organization
+==========================
+
+Frontend
+   - Components
+      - component1.js
+      - component2.js
+      - component3.js
+   - Actions
+      - action1.js
+      - action2.js
+   - Reducers
+      - reducer1.js
+   - Util
+   - Store
+
+-------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
